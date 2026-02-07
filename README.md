@@ -1,15 +1,19 @@
 # Bitstream
 
 This is my Hackpad, which I made from scratch following the tutorial given. It is named Bitstream
+![4](https://github.com/user-attachments/assets/eb7acee0-6322-4136-8d86-61e154cbdfdf)
+
+
+# 3D view
 <img width="1470" alt="full-Bitsream" src="https://github.com/user-attachments/assets/10e28946-999a-4e1d-9be3-474ff4263d7b" />
 
 
 
 # Inspiration
-I've always wanted to build such hardware, and Hackpad gave me the perfect opportunity to start hardware creation
+I've always wanted to build such hardware, and Hackpad gave me the perfect opportunity to start hardware creation.
 
 # Challenges
-This was the first time I used the XIAO library and Fusion 360. Although I did run into some issues, the tutorial helped me a lot as a beginner and other issuses were resolved on the channel <a href="https://hackclub.slack.com/archives/C07LESGH0B0">Hackpad</a>.
+This was the first time I used the XIAO library and Fusion 360. Although I did run into some issues, the tutorial helped me a lot as a beginner and other issues were resolved on the channel <a href="https://hackclub.slack.com/archives/C07LESGH0B0">Hackpad</a>.
 
 # Specifications
 
@@ -41,6 +45,12 @@ Others:
 <h3>Case</h3>
 <img width="1470" alt="Case" src="https://github.com/user-attachments/assets/52a31a76-9301-463c-b8fa-0b2a6714f995" />
 
-
+# Assembly
+<h3>After getting the pcb, parts and the case, it was time to start soldering everything together</h3>
+I began by carefully positioning the XIAO RP2040 on a breadboard, ensuring that there was sufficient space for connection to other components. Next, I took the pin headers and soldered them onto the XIAO RP2040.<br>
+After the header pins were soldered, I soldered the whole thing to the pcb.
+Next was soldering the keys, which was quite delightful and a smooth job
+At last, I put the electronics in the case and tightened the upper case to the whole.
+EVERYTHINGGGG DONEEEEEE
 
 
