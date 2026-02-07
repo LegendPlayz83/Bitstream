@@ -48,9 +48,8 @@ Others:
 # Assembly
 <h3>After getting the pcb, parts and the case, it was time to start soldering everything together</h3>
 I began by carefully positioning the XIAO RP2040 on a breadboard, ensuring that there was sufficient space for connection to other components. Next, I took the pin headers and soldered them onto the XIAO RP2040.<br>
-After the header pins were soldered, I soldered the whole thing to the pcb.
-Next was soldering the keys, which was quite delightful and a smooth job
-At last, I put the electronics in the case and tightened the upper case to the whole.
-EVERYTHINGGGG DONEEEEEE
+After the header pins were soldered, I soldered the whole thing to the pcb.<br>
+Next was soldering the keys, which was quite delightful and a smooth job<br>
+At last, I put the electronics in the case and tightened the upper case to the whole, finishing it off.<br>
 
-
+In the end, I plugged the Xiao into my computer and uploaded the code using Arduino IDE
